@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksu3101&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksu3101&theme=dracula&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-sungwoo-045965102/)](https://www.linkedin.com/in/kang-sungwoo-045965102/) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksu3101.github.io/blog/)](https://ksu3101.github.io/blog/)
